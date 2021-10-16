@@ -1,7 +1,7 @@
 # MERN Appication(frontend & Backend) Simple Note Application
 # features of projects
- login system
- singup system
+     login system
+     singup system(password hashing)
  # CRUD operation
      Add note
      get note
