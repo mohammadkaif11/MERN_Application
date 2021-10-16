@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+#MERN Appication(frontend & Backend) Simple Note Application
+-features
+ --login system
+ --singup system
+ --CRUD operation
+    -- Add note
+    -- get note
+    -- delete note
+    -- update note
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
